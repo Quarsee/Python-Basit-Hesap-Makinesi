@@ -9,7 +9,8 @@ Hesap Makinesi
 
 3.Çarpma İşlemi
 
-4.Bölme İşlemi""")
+4.Bölme İşlemi
+""")
 
 a = int(input("Birinci Sayı:"))
 b = int(input("İkinci Sayı:"))
